@@ -10,4 +10,4 @@ d_2 = userInput+"  "+userInput
 
 print(d_1)
 print(d_2)
-#i tried my best to create a diamond from based off of what you showed me
+#i tried my best to create a diamond from based off of what you showed __build_class__
